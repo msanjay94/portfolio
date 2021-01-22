@@ -1,10 +1,6 @@
 # Portfolio
 
-I would love comments on it. Please email me: msiddhant22@gmail.com or 
-                           dm me on LinkedIn: https://www.linkedin.com/in/siddhant-misra/
+I would love comments on it. Please email me: m.sanjay94@gmail.com or 
+                           dm me on LinkedIn: https://www.linkedin.com/in/iamsanjay94
 
-Check out this one here: https://siddhant-misra.github.io/Portfolio/
-
-Check out my decommissioned portfolio here: https://siddhant-misra.github.io/Decommissioned-Portfolio/
-
-
+Check out this one here: https://msanjay94.github.io/Portfolio/
